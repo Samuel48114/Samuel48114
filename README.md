@@ -7,4 +7,9 @@ Here are some ideas to get you started:
 
 - 🌱 Estudando: phyton
 - 📫 contate-me no email: muels3646@gmail.com 
--->
+
+<div>
+<a href="https://github.com/Samuel48114">
+<img height="180em" src = https://github-readme-stats.vercel.app/api?username =Samuel&Show_icons=true&theme=dracul&include_all_commits=true&count_private=true"/>
+<img height="180em" src = https://github-readme-stats.vercel.app/api/top-langs?username=Samuel&layout=compact&langs_count=16&theme=dracula"/>
+</div>
