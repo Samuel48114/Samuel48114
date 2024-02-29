@@ -1,7 +1,6 @@
 ### Ola!! eu sou o Samuel André 👋😀
 
-- 🌱 Estudando: phyton
-- 📫 contate-me no email: Samuel"> 
+- 📫 contate-me no email: Samuel"> muels3646@gmail.com
 
 <div>
 <a href="https://https://www.youtube.com/watch?v=cYweWrJDJok">
